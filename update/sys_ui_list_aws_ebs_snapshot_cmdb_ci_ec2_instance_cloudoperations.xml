@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="cmdb_ci_ec2_instance" relationship="" sys_domain="global" table="aws_ebs_snapshot" version="2" view="CloudOperations">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="vm_snapshot" element="NULL" name="vm_snapshot" parent="cmdb_ci_ec2_instance" relationship="NULL" sys_domain="global" view="Default view">c51d7503d700210091fd8ae80e61031e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-04-17 17:55:11</sys_created_on>
+            <sys_id>491d7503d700210091fd8ae80e61031e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-04-17 17:55:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>snapshot_id</element>
+            <list_id display_value="vm_snapshot" element="NULL" name="vm_snapshot" parent="cmdb_ci_ec2_instance" relationship="NULL" sys_domain="global" view="Default view">c51d7503d700210091fd8ae80e61031e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-04-17 17:55:11</sys_created_on>
+            <sys_id>891d7503d700210091fd8ae80e61031e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-04-17 17:55:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>snapshot_size</element>
+            <list_id display_value="vm_snapshot" element="NULL" name="vm_snapshot" parent="cmdb_ci_ec2_instance" relationship="NULL" sys_domain="global" view="Default view">c51d7503d700210091fd8ae80e61031e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-04-17 17:55:11</sys_created_on>
+            <sys_id>c91d7503d700210091fd8ae80e61031e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-04-17 17:55:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="vm_snapshot" element="NULL" name="vm_snapshot" parent="cmdb_ci_ec2_instance" relationship="NULL" sys_domain="global" view="Default view">c51d7503d700210091fd8ae80e61031e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-04-17 17:55:11</sys_created_on>
+            <sys_id>0d1d7503d700210091fd8ae80e61031e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-04-17 17:55:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>aws_ebs_snapshot</name>
+            <parent>cmdb_ci_ec2_instance</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sujith</sys_created_by>
+            <sys_created_on>2017-08-03 14:00:13</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de71292a0f144300a0533e4ce1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>aws_ebs_snapshot</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_aws_ebs_snapshot_cmdb_ci_ec2_instance_CloudOperations</sys_update_name>
+            <sys_updated_by>sujith</sys_updated_by>
+            <sys_updated_on>2017-08-03 14:00:13</sys_updated_on>
+            <sys_user display_value="sujith kumar">43b9da530f000300a0533e4ce1050ebf</sys_user>
+            <view display_value="Cloud Operations" name="CloudOperations">9a8de2f137303000f5bf1f23dfbe5dda</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_spkg" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_spkg" element="NULL" name="cmdb_ci_spkg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e2acb18d0a0a0b2b5c325092f1a06f4f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-02-18 20:02:33</sys_created_on>
+            <sys_id>e2acb18e0a0a0b2b2e35d2626409a613</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-02-18 20:02:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>version</element>
+            <list_id display_value="cmdb_ci_spkg" element="NULL" name="cmdb_ci_spkg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e2acb18d0a0a0b2b5c325092f1a06f4f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-02-18 20:02:33</sys_created_on>
+            <sys_id>e2acb18f0a0a0b2b56196e6237205d36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-02-18 20:02:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>install_count</element>
+            <list_id display_value="cmdb_ci_spkg" element="NULL" name="cmdb_ci_spkg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e2acb18d0a0a0b2b5c325092f1a06f4f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-02-18 20:02:33</sys_created_on>
+            <sys_id>e2acb1900a0a0b2b3d730f94026b7fa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-02-18 20:02:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="cmdb_ci_spkg" element="NULL" name="cmdb_ci_spkg" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e2acb18d0a0a0b2b5c325092f1a06f4f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>glide.maint</sys_created_by>
+            <sys_created_on>2010-02-18 20:02:33</sys_created_on>
+            <sys_id>e2acb1900a0a0b2b60a1b393b930a895</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide.maint</sys_updated_by>
+            <sys_updated_on>2010-02-18 20:02:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_spkg</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sujith</sys_created_by>
+            <sys_created_on>2017-08-03 13:54:48</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b3025a60f144300a0533e4ce1050e3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_spkg</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_spkg_null</sys_update_name>
+            <sys_updated_by>sujith</sys_updated_by>
+            <sys_updated_on>2017-08-03 13:54:48</sys_updated_on>
+            <sys_user display_value="sujith kumar">43b9da530f000300a0533e4ce1050ebf</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

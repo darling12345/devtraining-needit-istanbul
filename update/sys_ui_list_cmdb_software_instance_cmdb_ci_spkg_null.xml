@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="cmdb_ci_spkg" relationship="" sys_domain="global" table="cmdb_software_instance" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>installed_on</element>
+            <list_id display_value="cmdb_software_instance" element="NULL" name="cmdb_software_instance" parent="cmdb_ci_spkg" relationship="NULL" sys_domain="global" view="Default view">05258bce0a0a0b530d08fbca93568e19</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aleck.lin</sys_created_by>
+            <sys_created_on>2010-06-04 22:47:13</sys_created_on>
+            <sys_id>05258bcf0a0a0b535d0897835838b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aleck.lin</sys_updated_by>
+            <sys_updated_on>2010-06-04 22:47:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_software_instance</name>
+            <parent>cmdb_ci_spkg</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>sujith</sys_created_by>
+            <sys_created_on>2017-08-01 18:33:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2dc4cc20f580300a0533e4ce1050ede</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_software_instance</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_software_instance_cmdb_ci_spkg_null</sys_update_name>
+            <sys_updated_by>sujith</sys_updated_by>
+            <sys_updated_on>2017-08-01 18:33:31</sys_updated_on>
+            <sys_user display_value="sujith kumar">43b9da530f000300a0533e4ce1050ebf</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

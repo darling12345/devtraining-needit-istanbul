@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="cmdb_ci" label="Business Service" max_length="40" name="cmdb_ci_service" type="collection">
+        <element label="Name" max_length="100" name="x_58872_needit_name" type="string"/>
+    </element>
+</database>
